@@ -20,3 +20,5 @@ This project analyzes Indian COVID-19 trends using Pandas, Seaborn, and Plotly. 
 2. Upload the `csv` file when prompted or mount Google Drive
 
 
+
+
